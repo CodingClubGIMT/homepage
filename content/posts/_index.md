@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Activities"
 description: ""
 images: []
 draft: false
