@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Terrassa"
+title = "GIMT Coding Club"
 author = "Daniel Zaragoza (Danielkvist)"
 googleAnalytics = ""
 defaultContentLanguage = "en"
@@ -21,7 +21,7 @@ theme = "terrassa"
 [params.hero]
     textColor = "" # Empty for default color
 
-[params.cta] # Call To Action 
+[params.cta] # Call To Action
     show = true
     cta = "Contact"
     link = "contact" # Relative URL
