@@ -3,7 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/danielkvist/hugo-terrassa-theme/blob/master/LICENSE"
 description = "A simple, fast and responsive theme for Hugo with a strong focus on accessibility."
 homepage = "http://github.com/danielkvist/hugo-terrassa-theme"
-tags = ["blog", "clean", "personal", "company", "google analytics", "contact form","mobile", "modern", "accessibility", "font awesome"]
+tags = ["gimt", "coding_club", "portfolio", "web_dev", "5th_Sem_3rd Sem", "opensource", "git", "github"]
 features = [
   "responsive design",
   "accessibility",
