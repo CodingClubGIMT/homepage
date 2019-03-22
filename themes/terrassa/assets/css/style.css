@@ -583,3 +583,13 @@
 	transform: scale(0, 0);
 	transition: 0s;
 }
+
+table {
+  width: 100%;
+	border: 5px solid #fcc966;
+}
+
+th,tr,td {
+  height: 50px;
+	border: 5px solid #fcc966;
+}
