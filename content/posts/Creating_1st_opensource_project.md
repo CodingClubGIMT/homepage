@@ -6,5 +6,5 @@ publishDate: 2017-08-25
 author: "John Doe"
 images: []
 draft: false
-tags: ["GIMT", "coding_club", "opensource"]
+tags: ["gimt", "coding_club", "opensource"]
 ---

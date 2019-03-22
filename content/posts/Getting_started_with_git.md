@@ -6,5 +6,5 @@ publishDate: 2017-09-01
 author: "Hrishikesh Barman"
 images: []
 draft: false
-tags: ["GIMT", "coding_club", "opensource","git"]
+tags: ["gimt", "coding_club", "opensource","git","github"]
 ---

@@ -6,6 +6,6 @@ publishDate: 2017-08-14
 author: "Hrishikesh Barman"
 images: []
 draft: false
-tags: ["GIMT", "coding_club", "5th_Sem_3rd Sem"]
+tags: ["gimt", "coding_club", "5th_Sem_3rd Sem"]
 ---
 

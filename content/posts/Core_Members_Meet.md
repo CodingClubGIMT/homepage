@@ -5,6 +5,6 @@ date: 2018-02-09
 author: "Hrishikesh Barman"
 images: []
 draft: false
-tags: ["GIMT", "coding club"]
+tags: ["gimt", "coding_club"]
 ---
 
