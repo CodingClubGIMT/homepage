@@ -1,6 +1,6 @@
 ---
 title: "Members"
-description: ""
+description: "Members List"
 images: []
 draft: false
 menu: main
