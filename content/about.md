@@ -18,20 +18,20 @@ weight: 3
 |Abinash Boruah|||
 |Abhijit Modak|||
 |Dibyajyoti Changkakoti|||
-|Bhargab Hazarika|||
-|Bikram Nath|||
-|Dipankar Das|||
-|Bikokhita Dutta|||
-|Bonika Basumatary|||
-|Abhijit Kazi|||
-|Sikhar Jyoti Saikia|||
+|Bhargab Hazarika|2014|<a href="https://github.com/MaxySpark">@MaxySpark|
+|Bikram Nath|2014|<a href="https://github.com/bikram1795">@bikram1795|
+|Dipankar Das|2014||
+|Bikokhita Dutta|2014||
+|Bonika Basumatary|2014||
+|Abhijit Kazi|2014|<a href="https://github.com/AbhijitKazi">@AbhijitKazi|
+|Sikhar Jyoti Saikia|2014||
 |Arindom Deka|||
-|Abhinov Deka|||
-|Nilakshi Boruah|||
-|Debasmit Pranam Sarmah|||
-|Bibek Chetia|||
-|Himanshi Borah|||
-|Palash Jyoti Pegu|||
+|Abhinov Deka|2014||
+|Nilakshi Boruah|2014||
+|Debasmit Pranam Sarmah|2014|<a href="https://github.com/Heideo">@Heideo|
+|Bibek Chetia|2014||
+|Himanshi Borah|2014||
+|Palash Jyoti Pegu|2014||
 |Dwiban Thakuria|||
 |Abhijit Das|||
 |Mrinmoy Rajbongshi|||
@@ -39,9 +39,9 @@ weight: 3
 |Priyanashi Kalita|2016||
 |Ruchika das|2016||
 |Dipankar Paul|||
-|Savera Sharma|||
+|Savera Sharma|2014||
 |Nayan Nath|||
-|Himadri Sarma|||
+|Himadri Sarma|2014||
 |Upasana Choudhary|2016||
 |Rituparna Sharma|||
 |Parthava Borah|||
