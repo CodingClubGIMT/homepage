@@ -1,11 +1,10 @@
 ---
 title: "Home"
 description: ""
-images: ["geek3.jpg"]
+images: ["geek5.svg"]
 draft: false
 menu: main
 weight: 1
 ---
 
 # Let's Code
-## 
